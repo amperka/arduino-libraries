@@ -19,5 +19,5 @@ digitalWrite 	KEYWORD2
 # Constants (LITERAL1)
 #######################################
 
-ALL	LITERAL1
-PIN_CS	LITERAL1
+ALL LITERAL1
+PIN_CS  LITERAL1
